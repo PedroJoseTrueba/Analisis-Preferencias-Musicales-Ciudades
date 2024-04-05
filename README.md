@@ -1,4 +1,4 @@
-# Analisis-Preferencias-Musicales-Ciudades
+# Análisis de Preferencias Musicales en Ciudades: Comparación entre Springfield y Shelbyville
 
 ## Introducción
 En este proyecto, llevaré a cabo un análisis de datos para comparar las preferencias musicales de las ciudades de Springfield y Shelbyville. Utilizaré datos reales de transmisión de música en línea para explorar el comportamiento de los usuarios y probar una hipótesis específica.
